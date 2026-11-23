@@ -1,0 +1,4 @@
+*.db
+*.gz
+*.xz
+*-private.pem
